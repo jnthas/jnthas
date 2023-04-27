@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonathas 👋
 
 
-- 🔭 I have worked as a software engineer and am currently a SRE at CI&T
+- 🔭 Software Architect at CI&T
 - 🌱 Dedicating my free time studying maker culture, electronics, IoT, Arduino, C++, 3D printing and ML
 - 👯 Looking for IoT projects to collaborate with or ideas that we can develop together
 - 😄 he/his/him
